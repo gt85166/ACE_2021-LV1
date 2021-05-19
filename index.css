@@ -1,0 +1,21 @@
+html {
+  background-image: url("ACE_bootCamp/img/background2.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 30 % px; /* You must set a specified height */
+  background-position: cener; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  ackground-attachment: fixed;
+}
+
+
+#MainTable {
+    width: 100%;
+    background-color: #D8F0DA;
+    border: 1px;
+    min-width: 100%;
+    position: center;
+    opacity: 0.97;
+    background: transparent;
+
+}
